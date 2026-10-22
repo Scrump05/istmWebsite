@@ -20,4 +20,10 @@ Commands:
             - Select the files you changed, updated, or modified with the box next to it
             - Add a "Summary" or title and a descripton of what you did with these files
             - Click "Commit (x amount) files to main" 
-            
+            - Click "Push Origin" 
+            - It should ask to create a Pull Request after. Click on that option.
+              It should take you to GitHub in the browser
+            - Fill out the information if needed and Create the Pull Request
+            - I will check if there are any merge conflicts and approve if there are none
+            - Once the PR is approved, everyone will need to run the pull command in the 
+              terminal to update their code.
