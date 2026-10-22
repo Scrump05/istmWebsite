@@ -1,0 +1,23 @@
+Commands:
+    To pull changes from the repo-
+        - Open your terminal
+        - Click in the terminal to make the cursor box solid white
+        - Type "git pull origin main" without the quotation marks
+        - It should do everything for you, and you should see the updateed code
+    
+    To push changes to the repo- (2 different options)
+        1. Using the Source Control tab
+            - Click on the Source Control button on the side
+            - Under the changes tab, it should show all of the files you updated
+              or modified
+            - Click the + button on the "Changes" drop down (Next to the circle with
+              the number on it)
+            - Add a message in the "Message" box
+            - Click on the Commit button and click "Sync Changes" if it prompts you after
+        2.  Using GitHub Desktop (To create a Pull Request)
+            - Open the Repo in GitHub Desktop
+            - Go to the "Changes" tab (Should be directly under the Current Repo box)
+            - Select the files you changed, updated, or modified with the box next to it
+            - Add a "Summary" or title and a descripton of what you did with these files
+            - Click "Commit (x amount) files to main" 
+            
